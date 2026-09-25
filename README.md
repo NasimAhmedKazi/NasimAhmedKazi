@@ -1,128 +1,117 @@
-<h1 align="center">Hi 👋, I'm Nasim Ahmed Kazi</h1>
+<div align="center">
+  
+# Hello, I'm Nasim Ahmed Kazi 👋
 
-<h3 align="center">
-B.Tech ECE @ MNNIT Allahabad • Full Stack Developer • Backend Enthusiast • Problem Solver
-</h3>
+### **B.Tech ECE @ MNNIT Allahabad • Full Stack Developer • Backend Enthusiast • Problem Solver**
 
-<p align="center">
-  <i>Building real-world applications, solving problems, and continuously learning new technologies 🚀</i>
+<p>
+  <i>Crafting resilient backend architectures, building scalable full-stack applications, and engineering intelligent software solutions 🚀</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NasimAhmedKazi&label=Profile%20Views&color=0e75b6&style=flat" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=NasimAhmedKazi&label=Profile%20Views&color=0e75b6&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square&logo=appveyor" />
+  <img src="https://img.shields.io/badge/LeetCode-1764%20★-orange?style=flat-square&logo=leetcode" />
 </p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 💡 About Me
 
-I'm a **B.Tech Electronics & Communication Engineering student at MNNIT Allahabad (2024–2028)** passionate about software development, backend engineering, and problem solving.
+I am a second-year **Electronics and Communication Engineering** undergraduate at the **Motilal Nehru National Institute of Technology (MNNIT) Allahabad**. My core expertise lies in building production-ready web applications, optimizing backend architectures, and tackling complex algorithmic problems. 
 
-- 🎓 B.Tech ECE @ MNNIT Allahabad
-- 💻 Interested in **Full Stack & Backend Development**
-- 🧠 Passionate about **DSA & Competitive Programming**
-- 🔧 Building real-world applications using the **MERN Stack**
-- 🤖 Exploring **AI, Agentic AI & RAG**
-- ☁️ Interested in **Cloud, DevOps & System Design**
-- 🎯 Preparing for software engineering internships and placements
+Beyond traditional web development, I am heavily invested in exploring modern **AI integration (Agentic AI & RAG)**, distributed cloud infrastructure, and crafting seamless developer experiences.
+
+- 🎓 **Academics:** B.Tech ECE @ MNNIT Allahabad *(2024–2028)*
+- 💻 **Core Focus:** Full Stack Web Development & High-Performance Backends
+- 🧠 **Problem Solving:** 600+ DSA problems solved across platforms with a competitive edge
+- 🤖 **Explorations:** RAG pipelines, LangGraph, AI agents, and System Design
+- 🎯 **Current Goal:** Seeking Software Engineering Internship and Mentorship opportunities for Summer/Fall 2027
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Arsenal
 
-### Languages
-
+### **Languages & Core**
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&theme=dark" />
 </p>
 
-### Frontend
-
+### **Frontend & UI**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
 </p>
 
-### Backend & Databases
-
+### **Backend & Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,redis&theme=dark" />
 </p>
 
-### Tools & Technologies
-
+### **Cloud, DevOps & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,aws,vscode&theme=dark" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💼 JobStack
-
-**MERN-based Job Portal connecting candidates with recruiters.**
-
-- 👨‍💼 Recruiter & Candidate roles
-- 🔐 JWT Authentication
-- 🗄️ MongoDB database
-- ⚡ REST APIs
-- 🎨 React frontend
-
-🔗 [GitHub Repository](https://github.com/NasimAhmedKazi/JOB-STACK-FINAL)
+| Project Name | Description & Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **💼 JobStack** | A feature-rich MERN job portal connecting recruiters and job seekers seamlessly. | • JWT Auth & RBAC<br>• Scalable REST APIs<br>• Dynamic candidate dashboards | [GitHub](https://github.com/NasimAhmedKazi/JOB-STACK-FINAL) |
+| **🌙 Low-Light Enhancement** | Computer vision solution leveraging deep learning to restore ultra-dark images and videos. | • Zero-DCE implementation<br>• OpenCV processing pipeline<br>• Real-time frame enhancement | [GitHub](https://github.com/NasimAhmedKazi/Low-Light-Image-and-Video-Enhancement-) |
+| **🏥 MediSwift** | Comprehensive healthcare communication and doctor consultation platform. | • Secure appointment booking<br>• Real-time chat & WebRTC video<br>• Node.js & MongoDB backend | *Repository* |
 
 ---
 
-### 🌙 Low-Light Image & Video Enhancement
+## 🏆 Achievements & Milestones
 
-Computer vision project focused on enhancing low-light images and videos using **Zero-DCE**.
-
-- 🖼️ Image enhancement
-- 🎥 Video enhancement
-- 🤖 Zero-DCE
-- 👁️ OpenCV
-
-🔗 [GitHub Repository](https://github.com/NasimAhmedKazi/Low-Light-Image-and-Video-Enhancement-)
+- 🥇 **Rank 55** — DigitAlchemy Global Hackathon 2026 out of thousands of global participants.
+- 🏅 **Top 10 Finalist** — DevJam Hackathon for building innovative web applications under tight constraints.
+- ⭐ **LeetCode Peak Rating:** 1764 *(Consistent participant in weekly & biweekly contests)*.
+- 🎯 **Coding Ninjas Master:** Achieved 5200+ points with advanced proficiency in data structures.
+- 📊 **GeeksforGeeks:** Global rank under 1000 with 600+ total algorithmic problems solved across multiple platforms.
 
 ---
 
-### 🏥 MediSwift
-
-Online doctor appointment and communication platform.
-
-- 📅 Doctor appointment booking
-- 💬 Real-time chat
-- 🎥 Video communication
-- 🗄️ MongoDB backend
-
-**Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
-
----
-
-## 🏆 Achievements
-
-- 🏅 **Top-10 Finalist — DevJam**
-- 💻 **600+ Coding Problems Solved**
-- ⭐ **LeetCode Max Rating — 1764**
-- 🏆 **GFG Rank — Under 1000**
-- 🎯 **Master — Coding Ninjas | 5200+ Points**
-- 🥇 **Rank 55 — DigitAlchemy Global Hackathon 2026**
-
----
-
-## 🛠️ Currently Working On
+## ⚡ Current Focus & Roadmap
 
 ```text
-💼 JobStack
-   └── MERN-based Job Portal
+📂 [Project]       JobStack (Refining micro-interactions and adding advanced analytics)
+👁️ [CV / AI]       Low-Light Enhancement & exploring computer vision pipelines
+🧠 [DSA & CP]      Advanced graph theory, segment trees, and contest problem-solving
+🏗️ [Architecture]  System Design, caching layers with Redis, and message brokers
+🤖 [AI / Agents]   Building context-aware applications using RAG and LangGraph
 
-🌙 Low-Light Enhancement
-   └── Zero-DCE based Image & Video Enhancement
 
-🧠 Data Structures & Algorithms
-   └── Competitive Programming & Problem Solving
+ 🌐 Connect With Me
 
-🏗️ Backend Development
-   └── REST APIs • Node.js • Express • MongoDB
+<p align="center">
 
-🤖 AI / Agentic AI
-   └── RAG • LangGraph • AI Agents
+<a href="https://github.com/NasimAhmedKazi" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/nasimahmedkazi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:nasimahmedkazi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="YOUR_LEETCODE_URL" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="YOUR_CODEFORCES_URL" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="YOUR_GFG_URL" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</p>
